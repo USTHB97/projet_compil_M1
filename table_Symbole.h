@@ -35,7 +35,7 @@ int hashCode(char *cle)
 	h = cle[0]%TailleTable;
 	return h;
 }
-
+erefe
 //Initialisation de la table
 //Tous les pointeurs sont mis à NULL
 void init()
